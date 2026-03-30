@@ -10,6 +10,7 @@
 public class ClassB {
     public static void printMessage() {
         System.out.println("Hello from ClassB! - V2.3");
+        System.out.println("2.7");
     }
     
 }
