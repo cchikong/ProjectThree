@@ -9,7 +9,7 @@
  */
 public class MainFunction {
     public static void main(String[] args) {
-        System.out.println("Hello from MainFunction! -V2");
+        System.out.println("Hello from MainFunction! -V2.1");
 
         ClassA.printMessage();
         ClassB.printMessage();
