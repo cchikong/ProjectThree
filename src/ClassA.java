@@ -14,7 +14,7 @@ public class ClassA {
         System.out.println("3.1v");
         System.out.println("working 4.0");
         System.out.println("working 4.1V");
-        System.out.println("working 4.1N");
+        System.out.println("working 4.1N2");
 
     }
     
