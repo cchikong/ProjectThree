@@ -9,7 +9,8 @@
  */
 public class ClassB {
     public static void printMessage() {
-        System.out.println("Hello from ClassB! - V2.3");
+        System.out.println("Hello from ClassB! - V2");
+        System.out.println("V2.6");
     }
     
 }
