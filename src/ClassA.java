@@ -11,6 +11,8 @@ public class ClassA {
     public static void printMessage() {
         System.out.println("Hello from ClassA! - V2.3");
         System.out.println("2.7");
+        System.out.println("3.0v");
+
     }
     
 }
