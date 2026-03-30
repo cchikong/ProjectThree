@@ -10,6 +10,7 @@
 public class MainFunction {
     public static void main(String[] args) {
         System.out.println("Hello from MainFunction! -V2.3");
+        System.out.println("2.7");
 
         ClassA.printMessage();
         ClassB.printMessage();
